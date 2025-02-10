@@ -97,14 +97,15 @@ This project was developed using the following technologies and environment:
 - **Development Environment:** Visual Studio Code 🖥️
 - **Notebook Environment:** Jupyter Notebook 📓
 - **Libraries:**
-  - **Pandas** 📊
-  - **Numpy** 🔢
-  - **Matplotlib** 📈
-  - **Seaborn** 📉
-  - **Scikit-learn** 🔧
-  - **LazyPredict** 🧠
-  - **Missingno** 🚫
-  - **Jupyter Summary Tools** 📝
+  - **Pandas** ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
+  - **Numpy** ![Numpy](https://img.shields.io/badge/Numpy-013243.svg?style=flat&logo=numpy&logoColor=white)
+  - **Matplotlib** ![Matplotlib](https://img.shields.io/badge/Matplotlib-003b57.svg?style=flat&logo=matplotlib&logoColor=white)
+  - **Seaborn** ![Seaborn](https://img.shields.io/badge/Seaborn-0091b1.svg?style=flat&logo=seaborn&logoColor=white)
+  - **Scikit-learn** ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e.svg?style=flat&logo=scikit-learn&logoColor=white)
+  - **LazyPredict** ![LazyPredict](https://img.shields.io/badge/LazyPredict-003A6C.svg?style=flat&logo=python&logoColor=white)
+  - **Missingno** ![Missingno](https://img.shields.io/badge/Missingno-2a58e2.svg?style=flat&logo=python&logoColor=white)
+  - **Jupyter Summary Tools** ![Jupyter](https://img.shields.io/badge/Jupyter-ffb13b.svg?style=flat&logo=jupyter&logoColor=white)
+
 
 To install the required libraries:
 
